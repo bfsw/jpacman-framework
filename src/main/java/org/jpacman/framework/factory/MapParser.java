@@ -192,7 +192,7 @@ public class MapParser {
             }
             mapString = new String[mapList.size()];
             mapList.toArray(mapString);
-            br.close();
+            //br.close();
         } catch (IOException e) {
             throw new FactoryException("Problem reading file ", e);
         }
