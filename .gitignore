@@ -80,3 +80,4 @@ fabric.properties
 **/.idea/workspace.xml
 **/.idea/tasks.xml
 **/**/**/*.iml
+infer-out/
