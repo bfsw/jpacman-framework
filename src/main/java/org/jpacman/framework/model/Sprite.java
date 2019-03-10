@@ -79,7 +79,7 @@ public class Sprite {
 	 * @return What sort of sprite we're looking at.
 	 */
 	public SpriteType getSpriteType() {
-		return SpriteType.OTHER;
+		return null;//SpriteType.OTHER;
 	}
 	
 	@Override 
